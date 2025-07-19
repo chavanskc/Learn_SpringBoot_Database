@@ -9,6 +9,8 @@ public class DatabaseApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(DatabaseApplication.class, args);
 		System.out.println("Spring Boot Database connections");
+		//Testing Feature 1 Changes
+		System.out.println("Feature 1 Changes");
 	}
 
 }
