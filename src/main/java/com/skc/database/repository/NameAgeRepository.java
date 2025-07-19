@@ -1,5 +1,4 @@
 package com.skc.database.repository;
-
 import com.skc.database.model.NameAge;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
